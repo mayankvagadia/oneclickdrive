@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticalDemo</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_input">Example input</string>
+</resources>
